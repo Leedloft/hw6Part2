@@ -1,0 +1,15 @@
+.input_div{
+    display: flex;
+    margin-left: 20px;
+    width: 100%;
+    border-bottom: white;
+}
+.input_one {
+    width: 400px;
+}
+.input_two {
+    width: 400px;
+}
+.input_div label {
+    color: white;
+}

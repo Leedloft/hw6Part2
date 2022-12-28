@@ -1,8 +1,9 @@
 import React from 'react'
+import styles from './style.module.css'
 
 const AboutUs = () => {
   return (
-    <div>
+    <div className = {styles.about_us_div}>
         some text
     </div>
   )
